@@ -67,3 +67,7 @@ Future Improvements
 - Add a timer
 - Store high scores
 - Add a graphical user interface
+
+
+##author 
+JAGGINENI DEEKSHITH KUMAR 
