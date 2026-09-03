@@ -54,14 +54,7 @@ Concepts Used
 - "if-elif-else"
 - User input
 - Score calculation
-
-Project Structure
-
-project-4-quiz-game/
-│
-├── quiz.py
-└── README.md
-
+- 
 Learning Outcome
 
 This project helped me practice Python fundamentals such as functions, loops, conditional statements, lists, dictionaries, user input, and score calculation.
